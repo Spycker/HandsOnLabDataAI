@@ -1,0 +1,1 @@
+Tous les documents présents dans ce dossier sont issus d'un lab présenté lors du Azure Red Shirt Dev Tour du 23/01/18.
