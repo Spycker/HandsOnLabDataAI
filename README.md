@@ -25,3 +25,6 @@ To achieve that you just have to follow the instructions on each part in the spe
 
 **Enjoy and have fun !**
 
+## Setup 
+Redeem azure pass on https://www.microsoftazurepass.com/
+
