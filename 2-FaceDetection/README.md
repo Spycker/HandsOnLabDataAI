@@ -25,3 +25,7 @@ Python.exe -m pip install numpy
 ```
 C:\Python27\python.exe FaceDetection.py
 ```
+
+## For Mac users (experimental)
+This part can be trickier. The following soution use Home Brew
+https://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/
