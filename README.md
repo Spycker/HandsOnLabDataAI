@@ -17,10 +17,10 @@ Then he starts the checkpoint verification process with the chatbot. The bot rol
 
 To achieve that you just have to follow the instructions on each part in the specified order.
 
-1. [IoT](https://github.com/EdwigeSeminara/HandsOnLabDataAI/tree/master/1-IoT)
-2. [PowerBI](https://github.com/EdwigeSeminara/HandsOnLabDataAI/tree/master/2-PowerBI)
-3. [Face detection](https://github.com/EdwigeSeminara/HandsOnLabDataAI/tree/master/3-FaceDetection)
-4. [Chatbot](https://github.com/EdwigeSeminara/HandsOnLabDataAI/tree/master/4-Chatbot)
+1. [IoT](https://github.com/Spycker/HandsOnLabDataAI/tree/master/1-IoT)
+2. [Face detection](https://github.com/Spycker/HandsOnLabDataAI/tree/master/2-FaceDetection)
+3. [Chatbot](https://github.com/Spycker/HandsOnLabDataAI/tree/master/3-Chatbot)
+4. [PowerBI](https://github.com/Spycker/HandsOnLabDataAI/tree/master/4-PowerBI)
 5. Xamarin (bonus)
 
 **Enjoy and have fun !**
